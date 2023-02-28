@@ -4,7 +4,7 @@ This project uses the `@scrapingant/amazon-proxy-scraper` npm package to scrape 
 
 ## Usage
 
-To use this project:
+To use this project and get the most out of it:
 
 1. Install the required npm package by running `npm i @scrapingant/amazon-proxy-scraper`.
 2. Run the `script.js` file using Node.js by runnig command `node script.js`.
