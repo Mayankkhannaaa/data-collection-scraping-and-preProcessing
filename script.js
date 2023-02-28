@@ -113,12 +113,12 @@ const ProductsScraper = require('@scrapingant/amazon-proxy-scraper');
 
 const runTheScript = async () => {
   for (let i = 4; i < words.length; ) {
-    console.log('This is the letter being taken as trhe keyword');
+    console.log('This is the letter being taken as the keyword',"index",i);
     const scraper = new ProductsScraper({
       apiKey: '8fc37a442bb14eb297e1396895794e70',
       keyword: words[i],
       host: 'amazon.in',
-      number: 300,
+      number: 50,
       save: true,
       fileType: 'csv',
     });
