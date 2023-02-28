@@ -115,7 +115,7 @@ const runTheScript = async () => {
   for (let i = 4; i < words.length; ) {
     console.log('This is the letter being taken as trhe keyword');
     const scraper = new ProductsScraper({
-      apiKey: '79c962fd15cc465eb08e1beb53f83a0d',
+      apiKey: '8fc37a442bb14eb297e1396895794e70',
       keyword: words[i],
       host: 'amazon.in',
       number: 300,
