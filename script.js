@@ -126,7 +126,7 @@ const runTheScript = async () => {
       i++;
     }, console.error);
 
-    console.log('hey', words[i]);
+    console.log('chaning this back to normal', words[i]);
   }
 };
 
