@@ -1,4 +1,0 @@
-Step 1:
-npm i @scrapingant/amazon-proxy-scraper
-Step 2:
-node script.js
