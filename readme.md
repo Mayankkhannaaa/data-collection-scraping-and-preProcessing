@@ -14,6 +14,25 @@ To use this project and get the most out of it:
 6. Commit the changes using `git commit -m "message"`.
 7. Push the changes to your remote repository using `git push`.
 
+## Scraping Amazon Product Data Using WebDriver
+
+The installation process is given here `https://towardsdatascience.com/how-to-use-selenium-to-web-scrape-with-example-80f9b23a843a`
+
+## Run the Script
+
+Use command `python {fileName.py}` to run the script
+
+## Usage WebDriver
+
+To use this project and get the most out of it:
+
+1. Run `csvCreation.py` to create the table
+
+**Note that you have to replace webDriver location and put the location of where it is installed on your computer
+**Also, replace the name of the csv file you have the ASIN numbers in.
+2. Run `webDriverScript.py` to extract the data
+3. And you are good to go.
+
 ## Create a new pull request
 
 1. `git checkout -b my-feature-branch`
@@ -29,7 +48,6 @@ To use this project and get the most out of it:
 3. `git checkout main`
 4. `git merge upstream/main`
 5. `git push origin main`
-
 
 ## Pull the merged changes to local main machine
 
