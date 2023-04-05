@@ -33,6 +33,16 @@ To use this project and get the most out of it:
 2. Run `webDriverScript.py` to extract the data
 3. And you are good to go.
 
+## Preprocessing Data
+
+File to be accessed: `cleanMyData.py`
+
+1. All the neccessary factors to preprocess the data and do basic data augmentation is present in the file.
+2. Everything is commented with some headlines.
+3. Uncomment the part of code to be used.
+4. Run the file using `python cleanMydata.py`
+**Note, change the dataset file location as desired.
+
 ## Create a new pull request
 
 1. `git checkout -b my-feature-branch`

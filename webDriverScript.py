@@ -103,6 +103,8 @@ with open(filename, "r") as file:
                 print(other_json_data)
                 newDataRow.append(other_json_data)
         except:
+            if(not flagForFeature):
+                newDataRow.append({})
             print("")
 
 
