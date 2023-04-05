@@ -1,8 +1,8 @@
-# Scraping Amazon Product Data
+# Scraping Amazon Product Data 🗂️
 
 This project uses the `@scrapingant/amazon-proxy-scraper` npm package to scrape data from Amazon product pages.
 
-## Usage
+## Usage 💻
 
 To use this project and get the most out of it:
 
@@ -14,15 +14,15 @@ To use this project and get the most out of it:
 6. Commit the changes using `git commit -m "message"`.
 7. Push the changes to your remote repository using `git push`.
 
-## Scraping Amazon Product Data Using WebDriver
+## Scraping Amazon Product Data Using WebDriver 🗂️
 
 The installation process is given here `https://towardsdatascience.com/how-to-use-selenium-to-web-scrape-with-example-80f9b23a843a`
 
-## Run the Script
+## Run the Script 💻
 
 Use command `python {fileName.py}` to run the script
 
-## Usage WebDriver
+## Usage WebDriver 💻
 
 To use this project and get the most out of it:
 
@@ -33,7 +33,7 @@ To use this project and get the most out of it:
 2. Run `webDriverScript.py` to extract the data
 3. And you are good to go.
 
-## Preprocessing Data
+## Preprocessing Data 📊
 
 File to be accessed: `cleanMyData.py`
 
@@ -43,7 +43,7 @@ File to be accessed: `cleanMyData.py`
 4. Run the file using `python cleanMydata.py`
 **Note, change the dataset file location as desired.
 
-## Create a new pull request
+## Create a new pull request ℹ️
 
 1. `git checkout -b my-feature-branch`
 2. `git add .`
